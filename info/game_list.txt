@@ -1,0 +1,21 @@
+[name:游戏中文名, des:md5路径(用于生成md5版本文件), ori:源路径(用于拷贝), zipped:是否添加到压缩列表， folder:目录(用于压缩指定游戏)， primode:是否有私人房]
+name=斗地主,des=client\ciphercode\game\qipai\land,ori=game\qipai\land,folder=land,zipped=0,primode=1
+name=红中麻将,des=client\ciphercode\game\yule\sparrowhz,ori=game\yule\sparrowhz,folder=sparrowhz,zipped=0,primode=1
+name=510k,des=client\ciphercode\game\yule\510k,ori=game\yule\510k,folder=510k,zipped=0,primode=1
+name=百家乐,des=client\ciphercode\game\yule\baccaratnew,ori=game\yule\baccaratnew,folder=baccaratnew,zipped=0,primode=0
+name=李逵劈鱼,des=client\ciphercode\game\yule\fishlk,ori=game\yule\fishlk,folder=fishlk,zipped=0,primode=0
+name=港式五张,des=client\ciphercode\game\yule\hkfivecardnew,ori=game\yule\hkfivecardnew,folder=hkfivecardnew,zipped=0,primode=0
+name=豪车漂移,des=client\ciphercode\game\yule\luxurycar,ori=game\yule\luxurycar,folder=luxurycar,zipped=0,primode=0
+name=百人牛牛,des=client\ciphercode\game\yule\oxbattle,ori=game\yule\oxbattle,folder=oxbattle,zipped=0,primode=0
+name=二人牛牛,des=client\ciphercode\game\yule\oxex,ori=game\yule\oxex,folder=oxex,zipped=0,primode=0
+name=四人牛牛,des=client\ciphercode\game\yule\oxnew,ori=game\yule\oxnew,folder=oxnew,zipped=0,primode=0
+name=炸金花,des=client\ciphercode\game\yule\zhajinhua,ori=game\yule\zhajinhua,folder=zhajinhua,zipped=0,primode=1
+name=五子棋,des=client\ciphercode\game\yule\gobang,ori=game\yule\gobang,folder=gobang,zipped=0,primode=0
+name=金鲨银鲨,des=client\ciphercode\game\yule\sharkbattle,ori=game\yule\sharkbattle,folder=sharkbattle,zipped=0,primode=0
+name=百人骰宝,des=client\ciphercode\game\yule\sicbobattle,ori=game\yule\sicbobattle,folder=sicbobattle,zipped=0,primode=0
+name=豪车漂移,des=client\ciphercode\game\yule\luxurycar,ori=game\yule\luxurycar,folder=luxurycar,zipped=0,primode=0
+name=人鱼奇缘,des=client\ciphercode\game\yule\fishry,ori=game\yule\fishry,folder=fishry,zipped=0,primode=0
+name=摇钱树,des=client\ciphercode\game\yule\fishyqs,ori=game\yule\fishyqs,folder=fishyqs,zipped=0,primode=0
+name=水浒,des=client\ciphercode\game\yule\watermargin,ori=game\yule\watermargin,folder=watermargin,zipped=0,primode=0
+name=三九线,des=client\ciphercode\game\yule\line,ori=game\yule\line,folder=line,zipped=0,primode=0
+name=连环夺宝,des=client\ciphercode\game\yule\duobao,ori=game\yule\duobao,folder=duobao,zipped=0,primode=0
